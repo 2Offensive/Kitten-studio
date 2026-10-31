@@ -1,4 +1,3 @@
-<img width="265" height="44" alt="image" src="https://github.com/user-attachments/assets/0bbb980b-fa4c-4582-9e49-c6ea1b01ddcd" /><div align="center">
 
 🐟 ✨ 🎵 🐾 💖 ⭐ 🎶
 
