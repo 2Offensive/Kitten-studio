@@ -4,7 +4,7 @@
 
 # 🐱 Kitten Studio
 
-[![Kitten Studio screenshot](assets/screenshot.png)](Kitten_Studio.html)
+[![Kitten Studio screenshot](screenshot.png)](Kitten_Studio.html)
 
 **Play music with a kitten.** Click, tap or type — the cat plays along. Try petting it!
 
