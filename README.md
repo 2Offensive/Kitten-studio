@@ -41,9 +41,6 @@ There is **nothing to install**: the whole app is a single HTML file with no dep
 
 **Run it locally:** download this repo and open `Kitten_Studio.html` in any modern browser. That's it.
 
-**Host it on GitHub Pages:** rename `Kitten_Studio.html` to `index.html`, then go to **Settings → Pages**, choose your branch and save. Your kitten will be live at `https://<your-username>.github.io/<repo-name>/`.
-
-> 🔊 Browsers only allow sound after you interact with the page, so the first click or key press is what wakes the audio up.
 
 ## Controls
 
@@ -246,7 +243,3 @@ wood blk                H                   H
 - **Inline SVG**: the kitten, its paws and its expressions.
 - **WebGL fragment shader**: the animated caustics and gradient background (it simply disappears if WebGL isn't available).
 - **[Fredoka](https://fonts.google.com/specimen/Fredoka)** via Google Fonts for the rounded lettering. It's optional, and the app falls back to your system's rounded font.
-
-## Share your own songs
-
-Worked out a tune that sounds great? Open a pull request that adds it to the [Song examples](#song-examples) section using the same format: the song name, the instrument, and the keys one phrase per line. Please stick to public-domain or original tunes.
