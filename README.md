@@ -1,4 +1,4 @@
-<div align="center">
+<img width="265" height="44" alt="image" src="https://github.com/user-attachments/assets/0bbb980b-fa4c-4582-9e49-c6ea1b01ddcd" /><div align="center">
 
 🐟 ✨ 🎵 🐾 💖 ⭐ 🎶
 
@@ -41,16 +41,6 @@ There is **nothing to install**: the whole app is a single HTML file with no dep
 **Run it locally:** download this repo and open `Kitten_Studio.html` in any modern browser. That's it.
 
 
-## Controls
-
-| Action | How |
-| --- | --- |
-| Play notes | Click / tap the keys, or press the matching keyboard key (shown on each key) |
-| Switch instrument | Click a tab, or press <kbd>←</kbd> / <kbd>→</kbd> |
-| Glide across keys | Hold the mouse button (or your finger) and slide over the keys |
-| Pet the cat | Click or tap the kitten |
-| Volume / cat colour / key hints | Use the bar above the stage |
-
 ### Keyboard map
 
 | Instrument | Keys |
@@ -85,7 +75,11 @@ Each instrument has its own section below with its **keys**, a few **notes** abo
 - `SP` means the <kbd>Space</kbd> bar.
 - Melodies are traditional or public-domain tunes. For the chord-based sections, only the chord progressions of well-known songs are listed (no lyrics or melodies).
 ---
- 
+
+
+## song-examples
+
+
 ### 🥁 Bongos
  
 **Keys:** <kbd>D</kbd> slap · <kbd>F</kbd> low · <kbd>J</kbd> high · <kbd>K</kbd> slap
